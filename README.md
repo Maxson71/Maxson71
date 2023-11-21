@@ -20,7 +20,13 @@
   src="https://github-readme-stats.vercel.app/api?username=Maxson71&show_icons=true&count_private=true"/>
 </a>
 
-🖥️ My social
+✉️ My works
+-------------------
+<a href="https://maxson71.github.io/castpress/">
+  <img src="https://i.postimg.cc/7Pz3VpZ8/Screenshot-1.png" style=""/>
+</a> 
+
+✉️ My social
 -------------------
 <a href="https://www.linkedin.com/in/maksym-sherstiuk-29868026b/">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
