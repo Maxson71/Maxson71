@@ -22,11 +22,22 @@
 
 📁 My works
 -------------------
+#### PET-PROJECT
 <a href="https://maxson71.github.io/castpress/">
   <img src="https://img.shields.io/badge/Castpress-white?style=for-the-badge"/>
-</a>  <a href="https://maxson71.github.io/FunHaus/">
+</a> 
+<a href="https://github.com/Maxson71/castpress/tree/main">
+  <img src="https://img.shields.io/badge/REPOSITORY-222?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+#####
+
+<a href="https://maxson71.github.io/FunHaus/">
   <img src="https://img.shields.io/badge/FunHauS-8c433a?style=for-the-badge"/>
 </a> 
+<a href="https://github.com/Maxson71/FunHaus/tree/main">
+  <img src="https://img.shields.io/badge/REPOSITORY-222?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 🧮 Education
 -------------------
