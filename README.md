@@ -23,7 +23,9 @@
 📁 My works
 -------------------
 <a href="https://maxson71.github.io/castpress/">
-  <img src="https://img.shields.io/badge/Castpress-white?style=for-the-badge" style=""/>
+  <img src="https://img.shields.io/badge/Castpress-white?style=for-the-badge"/>
+</a>  <a href="https://maxson71.github.io/FunHaus/">
+  <img src="https://img.shields.io/badge/FunHauS-8c433a?style=for-the-badge"/>
 </a> 
 
 🧮 Education
