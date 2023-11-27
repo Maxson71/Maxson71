@@ -39,6 +39,15 @@
   <img src="https://img.shields.io/badge/REPOSITORY-222?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+#####
+
+<a href="https://maxson71.github.io/marketplace-frontend/">
+  <img src="https://img.shields.io/badge/marketplace-69a51f?style=for-the-badge"/>
+</a> 
+<a href="https://github.com/Maxson71/marketplace-frontend/tree/main">
+  <img src="https://img.shields.io/badge/REPOSITORY-222?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 🧮 Education
 -------------------
 #### National Technical University of Ukraine 'Kyiv Polytechnic Institute'​
