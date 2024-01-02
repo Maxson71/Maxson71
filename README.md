@@ -60,7 +60,7 @@
   
   - **React Basics:** [Certificate link](https://www.coursera.org/account/accomplishments/certificate/395CFWEEQ3SK)
  
-  - **Advanced React:** 63%
+  - **Advanced React:** 96%
 
 ✉️ My social
 -------------------
