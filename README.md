@@ -53,6 +53,8 @@
  
   - **Advanced React:** [Certificate link](https://www.coursera.org/account/accomplishments/certificate/8P3UULGGEN3P)
 
+  - **Principles of UX/UI Design:** [Certificate link](https://www.coursera.org/account/accomplishments/certificate/6W5DJPUFTA9N)
+
 ✉️ My social
 -------------------
 <a href="https://www.linkedin.com/in/maksym-sherstiuk-29868026b/">
