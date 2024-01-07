@@ -40,20 +40,28 @@
    - Java
    - Linux
    - XML
-#### COURSERA
-  - **Introduction to Front-End Development:** [Certificate link](https://www.coursera.org/account/accomplishments/certificate/23K47VBE4FE4)
-  
-  - **Programming with JavaScript:** [Certificate link](https://www.coursera.org/account/accomplishments/certificate/4YMEZSWTHQLA)
-  
-  - **Version Control:** [Certificate link](https://www.coursera.org/account/accomplishments/certificate/ECJ2JD32WUFQ)
-  
-  - **HTML and CSS in depth:** [Certificate link](https://www.coursera.org/account/accomplishments/certificate/Q2VAPYDJXH5L)
-  
-  - **React Basics:** [Certificate link](https://www.coursera.org/account/accomplishments/certificate/395CFWEEQ3SK)
- 
-  - **Advanced React:** [Certificate link](https://www.coursera.org/account/accomplishments/certificate/8P3UULGGEN3P)
 
-  - **Principles of UX/UI Design:** [Certificate link](https://www.coursera.org/account/accomplishments/certificate/6W5DJPUFTA9N)
+#### Meta Front-End Developer: [Certificate link](https://www.coursera.org/account/accomplishments/specialization/5MNXFFXGWES8)
+
+![image](https://github.com/Maxson71/Maxson71/assets/77611206/4fcc4c8b-415a-4c7e-a616-bb25567d40b0)
+
+  - **Introduction to Front-End Development:** [Certificate link](https://www.coursera.org/account/accomplishments/records/23K47VBE4FE4)
+  
+  - **Programming with JavaScript:** [Certificate link](https://www.coursera.org/account/accomplishments/records/4YMEZSWTHQLA)
+  
+  - **Version Control:** [Certificate link](https://www.coursera.org/account/accomplishments/records/ECJ2JD32WUFQ)
+  
+  - **HTML and CSS in depth:** [Certificate link](https://www.coursera.org/account/accomplishments/records/Q2VAPYDJXH5L)
+  
+  - **React Basics:** [Certificate link](https://www.coursera.org/account/accomplishments/records/395CFWEEQ3SK)
+ 
+  - **Advanced React:** [Certificate link](https://www.coursera.org/account/accomplishments/records/8P3UULGGEN3P)
+
+  - **Principles of UX/UI Design:** [Certificate link](https://www.coursera.org/account/accomplishments/records/6W5DJPUFTA9N)
+
+  - **Front-End Developer Capstone:** [Certificate link](https://www.coursera.org/account/accomplishments/verify/Z8A3W9K623WG)
+
+  - **Coding Interview Preparation:** [Certificate link](https://www.coursera.org/account/accomplishments/verify/ZDE9DHSQP2GM)
 
 ✉️ My social
 -------------------
