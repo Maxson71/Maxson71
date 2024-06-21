@@ -66,12 +66,15 @@
 ### National Technical University of Ukraine 'Kyiv Polytechnic Institute'​
 
 <div>
- <img height="40" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/>
- <img height="40" src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000"/>
- <img height="40" src="https://img.icons8.com/color/1x/java-coffee-cup-logo.png"/>
- <img height="40" src="https://img.icons8.com/color/1x/python.png"/>
- <img height="40" src="https://img.icons8.com/color/1x/linux.png"/>
- <img height="40" src="https://img.icons8.com/?size=100&id=10238&format=png&color=000000"/>
+ <img height="40" alt="Git" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/>
+ <img height="40" alt="GitHub" src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000"/>
+ <img height="40" alt="Java" src="https://img.icons8.com/color/1x/java-coffee-cup-logo.png"/>
+ <img height="40" alt="Python" src="https://img.icons8.com/color/1x/python.png"/>
+ <img height="40" alt="Linux" src="https://img.icons8.com/color/1x/linux.png"/>
+ <img height="40" alt="XML" src="https://img.icons8.com/?size=100&id=10238&format=png&color=000000"/>
+ <img height="40" alt="Assembler" src="https://static-00.iconduck.com/assets.00/assembly-icon-2048x2048-wspx42mf.png" />
+ <img height="40" alt="Math" src="https://github.com/Maxson71/Maxson71/assets/77611206/f3e2757b-30e6-4fb0-be23-8385d481122d" />
+
 </div>
 
 ### Meta Front-End Developer: [Certificate link](https://www.coursera.org/account/accomplishments/specialization/5MNXFFXGWES8)
@@ -80,6 +83,7 @@
  <img height="35" src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" /> 
  <img height="35" src="https://cdn.simpleicons.org/javascript" />
  <img height="35" src="https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000" /> 
+ <img height="35" src="https://cdn.simpleicons.org/tailwindcss" /> 
  <img height="35" src="https://img.icons8.com/?size=100&id=78Fr72VCwbPq&format=png&color=000000" /> 
  <img height="35" src="https://cdn.simpleicons.org/css3" />
  <img height="35" src="https://cdn.simpleicons.org/html5" /> 
