@@ -60,6 +60,24 @@
  <img height="28" width="28" src="https://cdn.simpleicons.org/html5" />
 </div>
 
+#### PET-PROJECT (WORKING)
+
+<div>
+ <a href="https://maxson71.github.io/zero-design/">
+   <img src="https://img.shields.io/badge/ZeroDesign-000?style=for-the-badge"/>
+ </a> 
+ <a href="https://github.com/Maxson71/zero-design">
+   <img src="https://img.shields.io/badge/REPOSITORY-222?style=for-the-badge&logo=github&logoColor=white"/>
+ </a>
+ <img height="28" width="28" src="https://cdn.simpleicons.org/nextdotjs" /> 
+ <img height="28" width="28" src="https://cdn.simpleicons.org/react" /> 
+ <img height="28" width="28" src="https://cdn.simpleicons.org/typescript" /> 
+ <img height="28" width="28" src="https://cdn.simpleicons.org/javascript" /> 
+ <img height="28" width="28" src="https://cdn.simpleicons.org/tailwindcss" /> 
+ <img height="28" width="28" src="https://cdn.simpleicons.org/css3" />
+ <img height="28" width="28" src="https://cdn.simpleicons.org/html5" /> 
+</div>
+
 
 🧮 Education
 -------------------
