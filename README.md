@@ -104,7 +104,9 @@
  <img height="35" src="https://cdn.simpleicons.org/tailwindcss" /> 
  <img height="35" src="https://img.icons8.com/?size=100&id=78Fr72VCwbPq&format=png&color=000000" /> 
  <img height="35" src="https://cdn.simpleicons.org/css3" />
- <img height="35" src="https://cdn.simpleicons.org/html5" /> 
+ <img height="35" src="https://cdn.simpleicons.org/html5" />
+ <img height="35" alt="Git" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/>
+ <img height="35" alt="GitHub" src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000"/>
 </div>
 
 ###  
