@@ -63,7 +63,7 @@
 #### PET-PROJECT (WORKING)
 
 <div>
- <a href="https://maxson71.github.io/zero-design/">
+ <a href="https://gxqlkw-3000.csb.app/">
    <img src="https://img.shields.io/badge/ZeroDesign-000?style=for-the-badge"/>
  </a> 
  <a href="https://github.com/Maxson71/zero-design">
