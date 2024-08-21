@@ -73,6 +73,7 @@
  <img height="28" width="28" src="https://cdn.simpleicons.org/react" /> 
  <img height="28" width="28" src="https://cdn.simpleicons.org/typescript" /> 
  <img height="28" width="28" src="https://cdn.simpleicons.org/javascript" /> 
+ <img height="28" width="28" src="https://cdn.simpleicons.org/vercel" />
  <img height="28" width="28" src="https://cdn.simpleicons.org/tailwindcss" /> 
  <img height="28" width="28" src="https://cdn.simpleicons.org/css3" />
  <img height="28" width="28" src="https://cdn.simpleicons.org/html5" /> 
