@@ -90,7 +90,7 @@
  <img height="40" alt="Python" src="https://img.icons8.com/color/1x/python.png"/>
  <img height="40" alt="Linux" src="https://img.icons8.com/color/1x/linux.png"/>
  <img height="40" alt="XML" src="https://img.icons8.com/?size=100&id=10238&format=png&color=000000"/>
- <img height="40" alt="Assembler" src="https://static-00.iconduck.com/assets.00/assembly-icon-2048x2048-wspx42mf.png" />
+ <img height="40" alt="Assembler" src="https://github.com/user-attachments/assets/90ba3fec-1d1a-4a2b-854e-a97d2123b6fc" />
  <img height="40" alt="Math" src="https://github.com/Maxson71/Maxson71/assets/77611206/f3e2757b-30e6-4fb0-be23-8385d481122d" />
 
 </div>
