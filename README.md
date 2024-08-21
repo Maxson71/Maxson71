@@ -60,7 +60,7 @@
  <img height="28" width="28" src="https://cdn.simpleicons.org/html5" />
 </div>
 
-#### PET-PROJECT (WORKING)
+#### PET-PROJECT (Development)
 
 <div>
  <a href="https://zero-design.vercel.app/">
@@ -139,6 +139,9 @@
 </a> 
 <a href="https://t.me/Maxsooooon">
   <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+<a href="mailto:sherstukmax2005@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-DFDFDF?style=for-the-badge&logo=gmail&logoColor=gray"/>
 </a>
 
 -------------------
