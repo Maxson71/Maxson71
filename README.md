@@ -31,6 +31,9 @@
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/GIT-DD2C00?style=for-the-badge&logo=git&logoColor=white"/></a>
 <a href="https://github.com/"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
+#### TESTING
+<a href="https://jestjs.io/"><img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/></a>
+
 #### AI TOOLS
 <a href="https://chat.openai.com/"><img src="https://img.shields.io/badge/CHATGPT-3A6?style=for-the-badge&logo=openai&logoColor=white"/></a>
 <a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/GITHUB_COPILOT-181717?style=for-the-badge&logo=githubcopilot&logoColor=white"/></a>
@@ -84,6 +87,7 @@
  <img height="28" width="28" src="https://cdn.simpleicons.org/typescript" /> 
  <img height="28" width="28" src="https://cdn.simpleicons.org/javascript" /> 
  <img height="28" width="28" src="https://cdn.simpleicons.org/vercel" />
+ <img height="28" width="28" src="https://cdn.simpleicons.org/jest" />
  <img height="28" width="28" src="https://cdn.simpleicons.org/tailwindcss" /> 
  <img height="28" width="28" src="https://cdn.simpleicons.org/css3" />
  <img height="28" width="28" src="https://cdn.simpleicons.org/html5" /> 
