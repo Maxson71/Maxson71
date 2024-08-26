@@ -11,6 +11,7 @@
 <a href="https://react.dev/"><img src="https://img.shields.io/badge/REACT JS-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a> 
 <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TYPESCRIPT-358EF1?style=for-the-badge&logo=typescript&logoColor=white"/></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a> 
+<a href="https://graphql.org/"><img src="https://img.shields.io/badge/GRAPHQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/></a>
 
 #### FRONT-END
 <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/></a>
