@@ -49,62 +49,64 @@
 <div>
  <a href="https://github.com/Maxson71/SMARTFOLIO/blob/master/README.md"><img src="https://img.shields.io/badge/SMARTFOLIO-128C76?style=for-the-badge"/></a> 
  <a href="https://github.com/Maxson71/SMARTFOLIO"><img src="https://img.shields.io/badge/REPOSITORY-222?style=for-the-badge&logo=github&logoColor=white"/></a>
- <img height="28" width="28" src="https://cdn.simpleicons.org/nextdotjs" /> 
- <img height="28" width="28" src="https://cdn.simpleicons.org/react" /> 
+ <a href="https://nextjs.org/"><img height="28" width="28" src="https://cdn.simpleicons.org/nextdotjs" /></a>
+ <a href="https://react.dev/"><img height="28" width="28" src="https://cdn.simpleicons.org/react" /></a>
+ <a href="https://www.typescriptlang.org/"><img height="28" width="28" src="https://cdn.simpleicons.org/typescript" /></a>
+ <a href="https://en.wikipedia.org/wiki/JavaScript"><img height="28" width="28" src="https://cdn.simpleicons.org/javascript" /></a>
  <img height="28" width="28" src="https://cdn.simpleicons.org/postgresql" /> 
- <img height="28" width="28" src="https://cdn.simpleicons.org/prisma" /> 
- <img height="28" width="28" src="https://cdn.simpleicons.org/typescript" /> 
- <img height="28" width="28" src="https://cdn.simpleicons.org/javascript" /> 
- <img height="28" width="28" src="https://cdn.simpleicons.org/sass" /> 
- <img height="28" width="28" src="https://cdn.simpleicons.org/css3" />
- <img height="28" width="28" src="https://cdn.simpleicons.org/html5" /> 
+ <a href="https://www.prisma.io/"><img height="28" width="28" src="https://cdn.simpleicons.org/prisma" /></a>
+ <a href="https://supabase.com/"><img height="28" width="28" src="https://cdn.simpleicons.org/supabase" /></a>
+ <a href="https://sass-lang.com/"><img height="28" width="28" src="https://cdn.simpleicons.org/sass" /></a>
+ <a href="https://en.wikipedia.org/wiki/CSS"><img height="28" width="28" src="https://cdn.simpleicons.org/css3" /></a>
+ <a href="https://en.wikipedia.org/wiki/HTML"><img height="28" width="28" src="https://cdn.simpleicons.org/html5" /></a>
 </div>
 <p></p>
 <div>
  <a href="https://maxson71.github.io/castpress/"><img src="https://img.shields.io/badge/Castpress-white?style=for-the-badge"/></a>
  <a href="https://github.com/Maxson71/castpress/tree/main"><img src="https://img.shields.io/badge/REPOSITORY-222?style=for-the-badge&logo=github&logoColor=white"/></a>
- <img height="28" width="28" src="https://cdn.simpleicons.org/react" />
- <img height="28" width="28" src="https://cdn.simpleicons.org/javascript" />
- <img height="28" width="28" src="https://cdn.simpleicons.org/sass" />
- <img height="28" width="28" src="https://cdn.simpleicons.org/css3" />
- <img height="28" width="28" src="https://cdn.simpleicons.org/html5" />
+ <a href="https://react.dev/"><img height="28" width="28" src="https://cdn.simpleicons.org/react" /></a>
+ <a href="https://en.wikipedia.org/wiki/JavaScript"><img height="28" width="28" src="https://cdn.simpleicons.org/javascript" /></a>
+ <a href="https://sass-lang.com/"><img height="28" width="28" src="https://cdn.simpleicons.org/sass" /></a>
+ <a href="https://en.wikipedia.org/wiki/CSS"><img height="28" width="28" src="https://cdn.simpleicons.org/css3" /></a>
+ <a href="https://en.wikipedia.org/wiki/HTML"><img height="28" width="28" src="https://cdn.simpleicons.org/html5" /></a>
 </div>
 <p></p>
 <div>
  <a href="https://maxson71.github.io/FunHaus/"><img src="https://img.shields.io/badge/FunHauS-8c433a?style=for-the-badge"/></a> 
  <a href="https://github.com/Maxson71/FunHaus/tree/main"><img src="https://img.shields.io/badge/REPOSITORY-222?style=for-the-badge&logo=github&logoColor=white"/></a>
- <img height="28" width="28" src="https://cdn.simpleicons.org/javascript" />
- <img height="28" width="28" src="https://cdn.simpleicons.org/css3" />
- <img height="28" width="28" src="https://cdn.simpleicons.org/html5" />
+ <a href="https://en.wikipedia.org/wiki/JavaScript"><img height="28" width="28" src="https://cdn.simpleicons.org/javascript" /></a>
+ <a href="https://en.wikipedia.org/wiki/CSS"><img height="28" width="28" src="https://cdn.simpleicons.org/css3" /></a>
+ <a href="https://en.wikipedia.org/wiki/HTML"><img height="28" width="28" src="https://cdn.simpleicons.org/html5" /></a>
 </div>
 
 #### PET-PROJECT (Development)
 
 <div>
- <a href="https://zero-design.vercel.app/"><img src="https://img.shields.io/badge/ZeroDesign-000?style=for-the-badge"/></a> 
- <a href="https://github.com/Maxson71/zero-design"><img src="https://img.shields.io/badge/REPOSITORY-222?style=for-the-badge&logo=github&logoColor=white"/></a>
- <img height="28" width="28" src="https://cdn.simpleicons.org/nextdotjs" /> 
- <img height="28" width="28" src="https://cdn.simpleicons.org/react" /> 
- <img height="28" width="28" src="https://cdn.simpleicons.org/typescript" /> 
- <img height="28" width="28" src="https://cdn.simpleicons.org/javascript" /> 
- <img height="28" width="28" src="https://cdn.simpleicons.org/vercel" />
- <img height="28" width="28" src="https://cdn.simpleicons.org/jest" />
- <img height="28" width="28" src="https://cdn.simpleicons.org/tailwindcss" /> 
- <img height="28" width="28" src="https://cdn.simpleicons.org/css3" />
- <img height="28" width="28" src="https://cdn.simpleicons.org/html5" /> 
+ <a href="https://zero-design.vercel.app/"><img src="https://img.shields.io/badge/ZeroDesign-000?style=for-the-badge" /></a>
+ <a href="https://github.com/Maxson71/zero-design"><img src="https://img.shields.io/badge/REPOSITORY-222?style=for-the-badge&logo=github&logoColor=white" /></a>
+ <a href="https://nextjs.org/"><img height="28" width="28" src="https://cdn.simpleicons.org/nextdotjs" /></a>
+ <a href="https://react.dev/"><img height="28" width="28" src="https://cdn.simpleicons.org/react" /></a>
+ <a href="https://www.typescriptlang.org/"><img height="28" width="28" src="https://cdn.simpleicons.org/typescript" /> </a>
+ <a href="https://en.wikipedia.org/wiki/JavaScript"><img height="28" width="28" src="https://cdn.simpleicons.org/javascript" /></a>
+ <a href="https://supabase.com/"><img height="28" width="28" src="https://cdn.simpleicons.org/supabase" /></a>
+ <a href="https://vercel.com/home"><img height="28" width="28" src="https://cdn.simpleicons.org/vercel" /></a>
+ <a href="https://jestjs.io/"><img height="28" width="28" src="https://cdn.simpleicons.org/jest" /></a>
+ <a href="https://tailwindcss.com/"><img height="28" width="28" src="https://cdn.simpleicons.org/tailwindcss" /></a>
+ <a href="https://en.wikipedia.org/wiki/CSS"><img height="28" width="28" src="https://cdn.simpleicons.org/css3" /></a>
+ <a href="https://en.wikipedia.org/wiki/HTML"><img height="28" width="28" src="https://cdn.simpleicons.org/html5" /></a>
 </div>
 
 <div>
  <a href="https://github.com/Maxson71/todo"><img src="https://img.shields.io/badge/ToDoList-1c8139?style=for-the-badge"/></a> 
  <a href="https://github.com/Maxson71/todo"><img src="https://img.shields.io/badge/REPOSITORY-222?style=for-the-badge&logo=github&logoColor=white"/></a>
- <img height="28" width="28" src="https://cdn.simpleicons.org/nextdotjs" /> 
- <img height="28" width="28" src="https://cdn.simpleicons.org/react" /> 
- <img height="28" width="28" src="https://cdn.simpleicons.org/typescript" /> 
- <img height="28" width="28" src="https://cdn.simpleicons.org/javascript" /> 
- <img height="28" width="28" src="https://cdn.simpleicons.org/graphql" />
- <img height="28" width="28" src="https://cdn.simpleicons.org/tailwindcss" /> 
- <img height="28" width="28" src="https://cdn.simpleicons.org/css3" />
- <img height="28" width="28" src="https://cdn.simpleicons.org/html5" /> 
+ <a href="https://nextjs.org/"><img height="28" width="28" src="https://cdn.simpleicons.org/nextdotjs"/></a>
+ <a href="https://react.dev/"><img height="28" width="28" src="https://cdn.simpleicons.org/react"/></a>
+ <a href="https://www.typescriptlang.org/"><img height="28" width="28" src="https://cdn.simpleicons.org/typescript" /></a>
+ <a href="https://en.wikipedia.org/wiki/JavaScript"><img height="28" width="28" src="https://cdn.simpleicons.org/javascript" /></a>
+ <a href="https://graphql.org/"><img height="28" width="28" src="https://cdn.simpleicons.org/graphql" /></a>
+ <a href="https://tailwindcss.com/"><img height="28" width="28" src="https://cdn.simpleicons.org/tailwindcss" /></a>
+ <a href="https://en.wikipedia.org/wiki/CSS"><img height="28" width="28" src="https://cdn.simpleicons.org/css3" /></a>
+ <a href="https://en.wikipedia.org/wiki/HTML"><img height="28" width="28" src="https://cdn.simpleicons.org/html5" /></a>
 </div>
 
 🧮 Education
@@ -177,9 +179,7 @@
   <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxson71&layout=compact"/>
 </a>
 <a href="https://github-readme-stats.vercel.app/api?username=Maxson71&show_icons=true&count_private=true">
-  <img
-  height=150
-  src="https://github-readme-stats.vercel.app/api?username=Maxson71&show_icons=true&count_private=true"/>
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=Maxson71&show_icons=true&count_private=true"/>
 </a>
 
 ![followers](https://img.shields.io/github/followers/Maxson71?logo=github&style=flat-square&color=0891b2&labelColor=1c1917)
