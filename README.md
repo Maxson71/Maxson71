@@ -86,7 +86,7 @@
  <a href="https://github.com/Maxson71/zero-design"><img src="https://img.shields.io/badge/REPOSITORY-222?style=for-the-badge&logo=github&logoColor=white" /></a>
  <a href="https://nextjs.org/"><img height="28" width="28" src="https://cdn.simpleicons.org/nextdotjs" /></a>
  <a href="https://react.dev/"><img height="28" width="28" src="https://cdn.simpleicons.org/react" /></a>
- <a href="https://www.typescriptlang.org/"><img height="28" width="28" src="https://cdn.simpleicons.org/typescript" /> </a>
+ <a href="https://www.typescriptlang.org/"><img height="28" width="28" src="https://cdn.simpleicons.org/typescript" /></a>
  <a href="https://en.wikipedia.org/wiki/JavaScript"><img height="28" width="28" src="https://cdn.simpleicons.org/javascript" /></a>
  <a href="https://supabase.com/"><img height="28" width="28" src="https://cdn.simpleicons.org/supabase" /></a>
  <a href="https://vercel.com/home"><img height="28" width="28" src="https://cdn.simpleicons.org/vercel" /></a>
@@ -114,29 +114,32 @@
 ### National Technical University of Ukraine 'Kyiv Polytechnic Institute'​
 
 <div>
- <img height="40" alt="Git" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/>
- <img height="40" alt="GitHub" src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000"/>
- <img height="40" alt="Java" src="https://img.icons8.com/color/1x/java-coffee-cup-logo.png"/>
- <img height="40" alt="Python" src="https://img.icons8.com/color/1x/python.png"/>
- <img height="40" alt="Linux" src="https://img.icons8.com/color/1x/linux.png"/>
- <img height="40" alt="XML" src="https://img.icons8.com/?size=100&id=10238&format=png&color=000000"/>
- <img height="40" alt="Assembler" src="https://github.com/user-attachments/assets/90ba3fec-1d1a-4a2b-854e-a97d2123b6fc" />
- <img height="40" alt="Math" src="https://github.com/Maxson71/Maxson71/assets/77611206/f3e2757b-30e6-4fb0-be23-8385d481122d" />
-
+ <img height="35" alt="Python" src="https://cdn.simpleicons.org/python"/>
+ <img height="35" alt="Java" src="https://img.icons8.com/color/1x/java-coffee-cup-logo.png"/>
+ <img height="35" alt="JavaScript"  src="https://cdn.simpleicons.org/javascript"/>
+ <img height="35" alt="Postgresql" src="https://cdn.simpleicons.org/postgresql"/>
+ <img height="35" alt="HTML" src="https://cdn.simpleicons.org/html5"/>
+ <img height="35" alt="CSS" src="https://cdn.simpleicons.org/css3"/>
+ <img height="35" alt="Git" src="https://cdn.simpleicons.org/git"/>
+ <img height="35" alt="GitHub" src="https://cdn.simpleicons.org/github"/>
+ <img height="35" alt="Linux" src="https://img.icons8.com/color/1x/linux.png"/>
+ <img height="35" alt="XML" src="https://img.icons8.com/?size=100&id=10238&format=png&color=000000"/>
+ <img height="35" alt="Assembler" src="https://github.com/user-attachments/assets/90ba3fec-1d1a-4a2b-854e-a97d2123b6fc"/>
+ <img height="35" alt="Math" src="https://github.com/Maxson71/Maxson71/assets/77611206/f3e2757b-30e6-4fb0-be23-8385d481122d"/>
 </div>
 
 ### Meta Front-End Developer: [Certificate link](https://www.coursera.org/account/accomplishments/specialization/5MNXFFXGWES8)
 
 <div> 
- <img height="35" src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" /> 
- <img height="35" src="https://cdn.simpleicons.org/javascript" />
- <img height="35" src="https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000" /> 
- <img height="35" src="https://cdn.simpleicons.org/tailwindcss" /> 
- <img height="35" src="https://img.icons8.com/?size=100&id=78Fr72VCwbPq&format=png&color=000000" /> 
- <img height="35" src="https://cdn.simpleicons.org/css3" />
- <img height="35" src="https://cdn.simpleicons.org/html5" />
- <img height="35" alt="Git" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/>
- <img height="35" alt="GitHub" src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000"/>
+ <img height="35" alt="React"  src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" /> 
+ <img height="35" alt="JavaScript"  src="https://cdn.simpleicons.org/javascript" />
+ <img height="35" alt="TypeScript" src="https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000" /> 
+ <img height="35" alt="TailWind" src="https://cdn.simpleicons.org/tailwindcss" /> 
+ <img height="35" alt="Scss" src="https://img.icons8.com/?size=100&id=78Fr72VCwbPq&format=png&color=000000" /> 
+ <img height="35" alt="CSS" src="https://cdn.simpleicons.org/css3" />
+ <img height="35" alt="HTML" src="https://cdn.simpleicons.org/html5" />
+ <img height="35" alt="Git" src="https://cdn.simpleicons.org/git"/>
+ <img height="35" alt="GitHub" src="https://cdn.simpleicons.org/github"/>
 </div>
 
 ###  
