@@ -1,3 +1,5 @@
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=My%20Portfolio&width=800&height=140)](https://github.com/Akshay090/svg-banners)
+
 🌍  I'm based in Ukraine💙💛
 
 ✉️  You can contact me at [sherstukmax2005@gmail.com](mailto:sherstukmax2005@gmail.com)
@@ -7,41 +9,39 @@
 ⭐ My skills
 -------------------
 #### FULLSTACK
-<a href="https://nextjs.org/"><img src="https://img.shields.io/badge/NEXT%20JS-111?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a> 
-<a href="https://react.dev/"><img src="https://img.shields.io/badge/REACT JS-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a> 
-<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TYPESCRIPT-358EF1?style=for-the-badge&logo=typescript&logoColor=white"/></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a> 
-<a href="https://graphql.org/"><img src="https://img.shields.io/badge/GRAPHQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/></a>
+<a href="https://nextjs.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg"/></a> 
+<a href="https://react.dev/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg"/></a> 
+<a href="https://www.typescriptlang.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg"/></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg"/></a> 
+<a href="https://graphql.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/GraphQL/graphql1.svg"/></a>
 
 #### FRONT-END
-<a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/></a>
-<a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/></a>
-<a href="https://en.wikipedia.org/wiki/CSS"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
-<a href="https://en.wikipedia.org/wiki/HTML"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+<a href="https://tailwindcss.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg"/></a>
+<a href="https://sass-lang.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass1.svg"/></a>
+<a href="https://en.wikipedia.org/wiki/CSS"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg"/></a>
+<a href="https://en.wikipedia.org/wiki/HTML"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg"/></a>
 
 #### DATABASE 
-<a href="https://www.prisma.io/"><img src="https://img.shields.io/badge/PRISMA-2d3748?style=for-the-badge&logo=prisma&logoColor=white"/></a>
-<a href="https://supabase.com/"><img src="https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/></a>
+<a href="https://www.prisma.io/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg"/></a>
+<a href="https://supabase.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase2.svg"/></a>
 
 #### DEPLOY
-<a href="https://vercel.com/home"><img src="https://img.shields.io/badge/VERCEL-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/FAREBASE-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/></a>
-<a href="https://pages.github.com/"><img src="https://img.shields.io/badge/GITHUB_PAGES-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://vercel.com/home"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel1.svg"/></a>
+<a href="https://firebase.google.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase1.svg"/></a>
 
 #### VERSION CONTROL
-<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/GIT-DD2C00?style=for-the-badge&logo=git&logoColor=white"/></a>
-<a href="https://github.com/"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://git-scm.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg"/></a>
+<a href="https://github.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg"/></a>
 
 #### TESTING
-<a href="https://jestjs.io/"><img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/></a>
+<a href="https://jestjs.io/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest1.svg"/></a>
 
 #### AI TOOLS
 <a href="https://chat.openai.com/"><img src="https://img.shields.io/badge/CHATGPT-3A6?style=for-the-badge&logo=openai&logoColor=white"/></a>
 <a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/GITHUB_COPILOT-181717?style=for-the-badge&logo=githubcopilot&logoColor=white"/></a>
 
 #### DESIGN
-<a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
-
+<a href=""><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg"/></a>
 
 📁 My works
 -------------------
@@ -166,24 +166,14 @@
 
 ✉️ My social
 -------------------
-<a href="https://www.linkedin.com/in/maksym-sherstiuk-29868026b/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a> 
-<a href="https://t.me/Maxsooooon">
-  <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-<a href="mailto:sherstukmax2005@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-DFDFDF?style=for-the-badge&logo=gmail&logoColor=gray"/>
-</a>
+<a href="https://www.linkedin.com/in/maksym-sherstiuk-29868026b/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg"/></a> 
+<a href="https://t.me/Maxsooooon"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg"/></a>
+<a href="mailto:sherstukmax2005@gmail.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg"/></a>
 
 -------------------
 
-<a href="https://github.com/Maxson71/github-readme-stats">
-  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxson71&layout=compact"/>
-</a>
-<a href="https://github-readme-stats.vercel.app/api?username=Maxson71&show_icons=true&count_private=true">
-  <img height=150 src="https://github-readme-stats.vercel.app/api?username=Maxson71&show_icons=true&count_private=true"/>
-</a>
+<a href="https://github.com/Maxson71/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxson71&layout=compact&theme=dark"/></a>
+<a href="https://github-readme-stats.vercel.app/api?username=Maxson71&show_icons=true&count_private=true&theme=transparent"><img height=150 src="https://github-readme-stats.vercel.app/api?username=Maxson71&show_icons=true&count_private=true&theme=dark"/></a>
 
 ![followers](https://img.shields.io/github/followers/Maxson71?logo=github&style=flat-square&color=0891b2&labelColor=1c1917)
 ![counter](https://komarev.com/ghpvc/?username=Maxson71&color=0891b2&label=views&labelColor=1c1917&style=flat-square)
