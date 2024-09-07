@@ -78,6 +78,22 @@
 </p>
 </br>
 
+<p>
+ <a href="https://maxson71.github.io/FunHaus/"><img src="https://github.com/user-attachments/assets/55364fd0-a5af-47d1-a7d7-6fe8f7f6c527" height="200px" align="left"></a>
+ <a href="https://github.com/Maxson71/FunHaus/tree/main"><img src="https://github.com/user-attachments/assets/ef4eb30a-9aff-474e-a095-5d3189dec473" height="30px" align="right"></a> 
+ <p>
+ 🌟 This site showcases a stylish interior with a focus on comfort and coziness, using a minimalist design with a slider of room photos and accompanying text blocks.
+  </p>
+  <p>
+   <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg"/></a> 
+   <a href="https://sass-lang.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass1.svg"/></a>
+   <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg"/></a>
+   <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg"/></a>
+   <p></p>
+  </p>
+</p>
+</br>
+
 <div>
  <a href="https://maxson71.github.io/FunHaus/"><img src="https://img.shields.io/badge/FunHauS-8c433a?style=for-the-badge"/></a> 
  <a href="https://github.com/Maxson71/FunHaus/tree/main"><img src="https://img.shields.io/badge/REPOSITORY-222?style=for-the-badge&logo=github&logoColor=white"/></a>
