@@ -41,32 +41,43 @@
 
 📁 My works
 -------------------
-#### PET-PROJECT
-<div>
- <a href="https://github.com/Maxson71/SMARTFOLIO/blob/master/README.md"><img src="https://img.shields.io/badge/SMARTFOLIO-128C76?style=for-the-badge"/></a> 
- <a href="https://github.com/Maxson71/SMARTFOLIO"><img src="https://img.shields.io/badge/REPOSITORY-222?style=for-the-badge&logo=github&logoColor=white"/></a>
- <a href="https://nextjs.org/"><img height="28" width="28" src="https://cdn.simpleicons.org/nextdotjs" /></a>
- <a href="https://react.dev/"><img height="28" width="28" src="https://cdn.simpleicons.org/react" /></a>
- <a href="https://www.typescriptlang.org/"><img height="28" width="28" src="https://cdn.simpleicons.org/typescript" /></a>
- <a href="https://en.wikipedia.org/wiki/JavaScript"><img height="28" width="28" src="https://cdn.simpleicons.org/javascript" /></a>
- <img height="28" width="28" src="https://cdn.simpleicons.org/postgresql" /> 
- <a href="https://www.prisma.io/"><img height="28" width="28" src="https://cdn.simpleicons.org/prisma" /></a>
- <a href="https://supabase.com/"><img height="28" width="28" src="https://cdn.simpleicons.org/supabase" /></a>
- <a href="https://sass-lang.com/"><img height="28" width="28" src="https://cdn.simpleicons.org/sass" /></a>
- <a href="https://en.wikipedia.org/wiki/CSS"><img height="28" width="28" src="https://cdn.simpleicons.org/css3" /></a>
- <a href="https://en.wikipedia.org/wiki/HTML"><img height="28" width="28" src="https://cdn.simpleicons.org/html5" /></a>
-</div>
-<p></p>
-<div>
- <a href="https://maxson71.github.io/castpress/"><img src="https://img.shields.io/badge/Castpress-white?style=for-the-badge"/></a>
- <a href="https://github.com/Maxson71/castpress/tree/main"><img src="https://img.shields.io/badge/REPOSITORY-222?style=for-the-badge&logo=github&logoColor=white"/></a>
- <a href="https://react.dev/"><img height="28" width="28" src="https://cdn.simpleicons.org/react" /></a>
- <a href="https://en.wikipedia.org/wiki/JavaScript"><img height="28" width="28" src="https://cdn.simpleicons.org/javascript" /></a>
- <a href="https://sass-lang.com/"><img height="28" width="28" src="https://cdn.simpleicons.org/sass" /></a>
- <a href="https://en.wikipedia.org/wiki/CSS"><img height="28" width="28" src="https://cdn.simpleicons.org/css3" /></a>
- <a href="https://en.wikipedia.org/wiki/HTML"><img height="28" width="28" src="https://cdn.simpleicons.org/html5" /></a>
-</div>
-<p></p>
+### PET-PROJECT
+
+<p>
+ <a href="https://github.com/Maxson71/SMARTFOLIO/blob/master/README.md"><img src="https://github.com/user-attachments/assets/0ee9780e-7a9a-4cb9-9642-a0b30f96ad86" height="200px" align="left"></a>
+ <a href="https://github.com/Maxson71/SMARTFOLIO"><img src="https://github.com/user-attachments/assets/ef4eb30a-9aff-474e-a095-5d3189dec473" height="30px" align="right"></a> 
+ <p>
+  💼 A user-friendly web platform designed to help investors efficiently manage and analyze their cryptocurrency, stock, and forex investments. It provides real-time market tracking, risk analysis, and smart decision-making tools through an intuitive interface.
+  </p>
+  <p>
+   <a href="https://nextjs.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg"/></a>
+   <a href="https://www.typescriptlang.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg"/></a>
+   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg"/>
+   <a href="https://www.prisma.io/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg"/></a>
+   <a href="https://sass-lang.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass1.svg"/></a>
+   <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg"/></a>
+   <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg"/></a>
+  </p>
+</p>
+
+
+<p>
+ <a href="https://maxson71.github.io/castpress/"><img src="https://github.com/user-attachments/assets/503bce43-2815-41ac-ba29-54a73f51da5f" height="200px" align="left"></a>
+ <a href="https://github.com/Maxson71/castpress/tree/main"><img src="https://github.com/user-attachments/assets/ef4eb30a-9aff-474e-a095-5d3189dec473" height="30px" align="right"></a> 
+ <p>
+ 📝 Castpress is a versatile platform that allows users to listen to posts and blogs directly through an integrated site player, offering a unique and engaging way to consume written content in audio format.
+  </p>
+  <p>
+   <a href="https://react.dev/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg"/></a> 
+   <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg"/></a> 
+   <a href="https://sass-lang.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass1.svg"/></a>
+   <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg"/></a>
+   <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg"/></a>
+   <p></p>
+  </p>
+</p>
+</br>
+
 <div>
  <a href="https://maxson71.github.io/FunHaus/"><img src="https://img.shields.io/badge/FunHauS-8c433a?style=for-the-badge"/></a> 
  <a href="https://github.com/Maxson71/FunHaus/tree/main"><img src="https://img.shields.io/badge/REPOSITORY-222?style=for-the-badge&logo=github&logoColor=white"/></a>
