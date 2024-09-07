@@ -36,10 +36,6 @@
 #### TESTING
 <a href="https://jestjs.io/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest1.svg"/></a>
 
-#### AI TOOLS
-<a href="https://chat.openai.com/"><img src="https://img.shields.io/badge/CHATGPT-3A6?style=for-the-badge&logo=openai&logoColor=white"/></a>
-<a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/GITHUB_COPILOT-181717?style=for-the-badge&logo=githubcopilot&logoColor=white"/></a>
-
 #### DESIGN
 <a href=""><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg"/></a>
 
@@ -174,6 +170,7 @@
 
 <a href="https://github.com/Maxson71/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxson71&layout=compact&theme=dark"/></a>
 <a href="https://github-readme-stats.vercel.app/api?username=Maxson71&show_icons=true&count_private=true&theme=transparent"><img height=150 src="https://github-readme-stats.vercel.app/api?username=Maxson71&show_icons=true&count_private=true&theme=dark"/></a>
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=Maxson71&theme=dark&hide_border=false"><img height=150 src="https://github-readme-streak-stats.herokuapp.com/?user=Maxson71&theme=dark&hide_border=false"/></a>
 
 ![followers](https://img.shields.io/github/followers/Maxson71?logo=github&style=flat-square&color=0891b2&labelColor=1c1917)
 ![counter](https://komarev.com/ghpvc/?username=Maxson71&color=0891b2&label=views&labelColor=1c1917&style=flat-square)
