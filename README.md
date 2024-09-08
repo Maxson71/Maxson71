@@ -43,12 +43,11 @@
 -------------------
 ### PET-PROJECT
 
-</br>
 <p>
  <a href="https://github.com/Maxson71/SMARTFOLIO/blob/master/README.md"><img src="https://github.com/user-attachments/assets/0ee9780e-7a9a-4cb9-9642-a0b30f96ad86" height="200px" align="left"></a>
  <a href="https://github.com/Maxson71/SMARTFOLIO"><img src="https://github.com/user-attachments/assets/ef4eb30a-9aff-474e-a095-5d3189dec473" height="30px" align="right"></a> 
  <p>
-  💼 A user-friendly web platform designed to help investors efficiently manage and analyze their cryptocurrency, stock, and forex investments. It provides real-time market tracking, risk analysis, and smart decision-making tools through an intuitive interface.
+  💼 A user-friendly web platform designed to help investors efficiently manage and analyze their cryptocurrency, stock, and forex investments.
   </p>
   <p>
    <a href="https://nextjs.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg"/></a>
@@ -60,7 +59,7 @@
    <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg"/></a>
   </p>
 </p>
-
+</br>
 
 <p>
  <a href="https://maxson71.github.io/castpress/"><img src="https://github.com/user-attachments/assets/503bce43-2815-41ac-ba29-54a73f51da5f" height="200px" align="left"></a>
@@ -81,7 +80,6 @@
 <p>
  <a href="https://maxson71.github.io/FunHaus/"><img src="https://github.com/user-attachments/assets/55364fd0-a5af-47d1-a7d7-6fe8f7f6c527" height="200px" align="left"></a>
  <a href="https://github.com/Maxson71/FunHaus"><img src="https://github.com/user-attachments/assets/ef4eb30a-9aff-474e-a095-5d3189dec473" height="30px" align="right"></a> 
- </br>
  <p>
   🌟 This site showcases a stylish interior with a focus on comfort and coziness, using a minimalist design with a slider of room photos and accompanying text blocks.
  </p>
@@ -116,7 +114,6 @@
    </br>
  </p>
 </p>
-</br>
 </br>
 
 <div>
