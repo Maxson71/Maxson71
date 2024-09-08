@@ -43,6 +43,7 @@
 -------------------
 ### PET-PROJECT
 
+</br>
 <p>
  <a href="https://github.com/Maxson71/SMARTFOLIO/blob/master/README.md"><img src="https://github.com/user-attachments/assets/0ee9780e-7a9a-4cb9-9642-a0b30f96ad86" height="200px" align="left"></a>
  <a href="https://github.com/Maxson71/SMARTFOLIO"><img src="https://github.com/user-attachments/assets/ef4eb30a-9aff-474e-a095-5d3189dec473" height="30px" align="right"></a> 
@@ -63,61 +64,60 @@
 
 <p>
  <a href="https://maxson71.github.io/castpress/"><img src="https://github.com/user-attachments/assets/503bce43-2815-41ac-ba29-54a73f51da5f" height="200px" align="left"></a>
- <a href="https://github.com/Maxson71/castpress/tree/main"><img src="https://github.com/user-attachments/assets/ef4eb30a-9aff-474e-a095-5d3189dec473" height="30px" align="right"></a> 
+ <a href="https://github.com/Maxson71/castpress"><img src="https://github.com/user-attachments/assets/ef4eb30a-9aff-474e-a095-5d3189dec473" height="30px" align="right"></a> 
  <p>
  📝 Castpress is a versatile platform that allows users to listen to posts and blogs directly through an integrated site player, offering a unique and engaging way to consume written content in audio format.
-  </p>
+ </p>
   <p>
    <a href="https://react.dev/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg"/></a> 
    <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg"/></a> 
    <a href="https://sass-lang.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass1.svg"/></a>
    <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg"/></a>
    <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg"/></a>
-   <p></p>
   </p>
 </p>
 </br>
 
 <p>
  <a href="https://maxson71.github.io/FunHaus/"><img src="https://github.com/user-attachments/assets/55364fd0-a5af-47d1-a7d7-6fe8f7f6c527" height="200px" align="left"></a>
- <a href="https://github.com/Maxson71/FunHaus/tree/main"><img src="https://github.com/user-attachments/assets/ef4eb30a-9aff-474e-a095-5d3189dec473" height="30px" align="right"></a> 
+ <a href="https://github.com/Maxson71/FunHaus"><img src="https://github.com/user-attachments/assets/ef4eb30a-9aff-474e-a095-5d3189dec473" height="30px" align="right"></a> 
+ </br>
  <p>
- 🌟 This site showcases a stylish interior with a focus on comfort and coziness, using a minimalist design with a slider of room photos and accompanying text blocks.
-  </p>
-  <p>
+  🌟 This site showcases a stylish interior with a focus on comfort and coziness, using a minimalist design with a slider of room photos and accompanying text blocks.
+ </p>
+ <p>
    <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg"/></a> 
    <a href="https://sass-lang.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass1.svg"/></a>
    <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg"/></a>
    <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg"/></a>
-   <p></p>
-  </p>
+ </p>
 </p>
 </br>
 
-<div>
- <a href="https://maxson71.github.io/FunHaus/"><img src="https://img.shields.io/badge/FunHauS-8c433a?style=for-the-badge"/></a> 
- <a href="https://github.com/Maxson71/FunHaus/tree/main"><img src="https://img.shields.io/badge/REPOSITORY-222?style=for-the-badge&logo=github&logoColor=white"/></a>
- <a href="https://en.wikipedia.org/wiki/JavaScript"><img height="28" width="28" src="https://cdn.simpleicons.org/javascript" /></a>
- <a href="https://en.wikipedia.org/wiki/CSS"><img height="28" width="28" src="https://cdn.simpleicons.org/css3" /></a>
- <a href="https://en.wikipedia.org/wiki/HTML"><img height="28" width="28" src="https://cdn.simpleicons.org/html5" /></a>
-</div>
+### PET-PROJECT (Development)
 
-#### PET-PROJECT (Development)
-
-<div>
- <a href="https://zero-design.vercel.app/"><img src="https://img.shields.io/badge/ZeroDesign-000?style=for-the-badge" /></a>
- <a href="https://github.com/Maxson71/zero-design"><img src="https://img.shields.io/badge/REPOSITORY-222?style=for-the-badge&logo=github&logoColor=white" /></a>
- <a href="https://nextjs.org/"><img height="28" width="28" src="https://cdn.simpleicons.org/nextdotjs" /></a>
- <a href="https://react.dev/"><img height="28" width="28" src="https://cdn.simpleicons.org/react" /></a>
- <a href="https://www.typescriptlang.org/"><img height="28" width="28" src="https://cdn.simpleicons.org/typescript" /></a>
- <a href="https://en.wikipedia.org/wiki/JavaScript"><img height="28" width="28" src="https://cdn.simpleicons.org/javascript" /></a>
- <a href="https://supabase.com/"><img height="28" width="28" src="https://cdn.simpleicons.org/supabase" /></a>
- <a href="https://vercel.com/home"><img height="28" width="28" src="https://cdn.simpleicons.org/vercel" /></a>
- <a href="https://jestjs.io/"><img height="28" width="28" src="https://cdn.simpleicons.org/jest" /></a>
- <a href="https://tailwindcss.com/"><img height="28" width="28" src="https://cdn.simpleicons.org/tailwindcss" /></a>
- <a href="https://en.wikipedia.org/wiki/CSS"><img height="28" width="28" src="https://cdn.simpleicons.org/css3" /></a>
- <a href="https://en.wikipedia.org/wiki/HTML"><img height="28" width="28" src="https://cdn.simpleicons.org/html5" /></a>
-</div>
+</br>
+<p>
+ <a href="https://zero-design.vercel.app/"><img src="https://github.com/user-attachments/assets/a93f9ea9-1286-4bfb-a54f-2d93d23aa100" height="200px" align="left"></a>
+ <a href="https://github.com/Maxson71/zero-design"><img src="https://github.com/user-attachments/assets/ef4eb30a-9aff-474e-a095-5d3189dec473" height="30px" align="right"></a> 
+ </br>
+ <p>
+ ♾️ Zero is a Webflow Ecommerce and CMS UI kit including several carefully designed page layouts.
+ </p>
+ <p>
+   <a href="https://nextjs.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg"/></a> 
+   <a href="https://www.typescriptlang.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg"/></a>
+   <a href="https://supabase.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase2.svg"/></a>
+   <a href="https://vercel.com/home"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel1.svg"/></a>
+   <a href="https://jestjs.io/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest1.svg"/></a>
+   <a href="https://tailwindcss.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg"/></a>
+   <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg"/></a>
+   <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg"/></a>
+   </br>
+ </p>
+</p>
+</br>
+</br>
 
 <div>
  <a href="https://github.com/Maxson71/todo"><img src="https://img.shields.io/badge/ToDoList-1c8139?style=for-the-badge"/></a> 
