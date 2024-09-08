@@ -98,7 +98,6 @@
 <p>
  <a href="https://zero-design.vercel.app/"><img src="https://github.com/user-attachments/assets/a93f9ea9-1286-4bfb-a54f-2d93d23aa100" height="200px" align="left"></a>
  <a href="https://github.com/Maxson71/zero-design"><img src="https://github.com/user-attachments/assets/ef4eb30a-9aff-474e-a095-5d3189dec473" height="30px" align="right"></a> 
- </br>
  <p>
  ♾️ Zero is a Webflow Ecommerce and CMS UI kit including several carefully designed page layouts.
  </p>
@@ -116,6 +115,7 @@
 </p>
 </br>
 
+</br>
 <div>
  <a href="https://github.com/Maxson71/todo"><img src="https://img.shields.io/badge/ToDoList-1c8139?style=for-the-badge"/></a> 
  <a href="https://github.com/Maxson71/todo"><img src="https://img.shields.io/badge/REPOSITORY-222?style=for-the-badge&logo=github&logoColor=white"/></a>
