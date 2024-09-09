@@ -21,23 +21,22 @@
 <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg"/></a>
 <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg"/></a>
 
-#### DATABASE 
+#### DATABASE & DEPLOY
 <a href="https://www.prisma.io/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg"/></a>
 <a href="https://supabase.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase2.svg"/></a>
-
-#### DEPLOY
+<a href="https://www.postgresql.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg"/></a>
 <a href="https://vercel.com/home"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel1.svg"/></a>
 <a href="https://firebase.google.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase1.svg"/></a>
 
-#### VERSION CONTROL
+#### VERSION CONTROL & TESTING
 <a href="https://git-scm.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg"/></a>
 <a href="https://github.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg"/></a>
-
-#### TESTING
 <a href="https://jestjs.io/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest1.svg"/></a>
 
 #### DESIGN
 <a href=""><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg"/></a>
+<a href=""><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop1.svg"/></a>
+<a href=""><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator2.svg"/></a>
 
 📁 My works
 -------------------
@@ -141,7 +140,6 @@
  <a href="https://git-scm.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg"/></a>
  <a href="https://github.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg"/></a>
  <a href="https://en.wikipedia.org/wiki/Linux"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg"/></a>
- <a href="https://en.wikipedia.org/wiki/Linux"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg"/></a>
 </div>
 
 ### Meta Front-End Developer: [Certificate link](https://www.coursera.org/account/accomplishments/specialization/5MNXFFXGWES8)
@@ -152,8 +150,8 @@
  <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg"/></a> 
  <a href="https://tailwindcss.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg"/></a>
  <a href="https://sass-lang.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass1.svg"/></a>
- <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg"/></a>
  <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg"/></a>
+ <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg"/></a>
  <a href="https://git-scm.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg"/></a>
  <a href="https://github.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg"/></a>
 </div>
